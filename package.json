@@ -1,8 +1,8 @@
 {
-  "name": "libp2p-crypto-secp256k1",
+  "name": "@arve.knudsen/libp2p-crypto-secp256k1",
   "version": "0.4.0",
   "description": "Support for secp256k1 keys in libp2p-crypto",
-  "leadMaintainer": "Friedel Ziegelmayer <dignifiedquire@gmail.com>",
+  "leadMaintainer": "Arve Knudsen <arve.knudsen@gmail.com>",
   "main": "src/index.js",
   "browser": {
     "secp256k1": "secp256k1/js"
@@ -46,12 +46,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/libp2p/js-libp2p-crypto-secp256k1.git"
+    "url": "https://github.com/aknuds1/js-libp2p-crypto-secp256k1.git"
   },
   "bugs": {
-    "url": "https://github.com/libp2p/js-libp2p-crypto-secp256k1/issues"
+    "url": "https://github.com/aknuds1/js-libp2p-crypto-secp256k1/issues"
   },
-  "homepage": "https://github.com/libp2p/js-libp2p-crypto-secp256k1",
+  "homepage": "https://github.com/aknuds1/js-libp2p-crypto-secp256k1",
   "contributors": [
     "Alberto Elias <hi@albertoelias.me>",
     "Alex Potsides <alex@achingbrain.net>",
